@@ -1,4 +1,7 @@
 # Diamond_Price_Prediction
+
+https://user-images.githubusercontent.com/67913416/190898865-7cdb52d0-e8bd-49e1-9e36-e4618f7dc2d1.mp4
+
 Title: Diamond price predictor (Machine Learning)
 1.	Problem state: Diamond is one of the strongest and the most valuable substances produced naturally as a form of carbon. However, unlike gold and silver, determining the price of a diamond is very complex because many features are to be considered for determining its price. Given dataset about diamonds is processed, cleaned, analyzed and evaluated to predict the price of a diamond whose details are entered by the user. This project aims to come up with the most accurate price prediction of diamonds.
 
